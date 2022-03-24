@@ -21,3 +21,22 @@ PWM Generation channel 1 : Mode PWM mode 1 :
 Allez vois dans GPIO settings si c’est bon. 
 Après cela allez dans project -> build all cela va vous créer les configurations que vous avez mis. Et compléter votre main.c automatiquement.
 PIN du PWM ici c’est PA0
+
+
+CAPTEUR ULTRASONS:
+
+ ![capteur ultrasons](images/aide_capteur_ultrasons0.png)
+
+
+ ![capteur ultrasons](images/aide_capteur_ultrasons1.png)
+
+
+ ![capteur ultrasons](images/aide_capteur_ultrasons2.png)
+
+
+ ![capteur ultrasons](images/aide_capteur_ultrasons3.png)
+
+ ![capteur ultrasons](images/aide_capteur_ultrasons4.png)
+
+
+
